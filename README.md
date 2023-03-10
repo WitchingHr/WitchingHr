@@ -6,11 +6,9 @@ I'm Matt, a self taught dev. I've spent the last 10 years of my life traveling a
 
 - Finish The Odin Project curriculum 📚
 
-- Learn React Native / Flutter 📲
+- Learn React Native 📲
 
 - Build a Fitness Tracker app 🏋️
-
-- Contribute to Open Source projects 🤝
 
 - ...Get hired as a Junior! 🚀
 
@@ -39,5 +37,4 @@ Want to learn at some point:
 
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
