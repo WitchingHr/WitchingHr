@@ -2,6 +2,11 @@
 I'm Matt, a self taught dev. I've spent the last 10 years of my life traveling around the world and now I'm looking to start a new career in tech.
 <hr>
 
+#### Values:
+- 1% Better Every Day
+- Every day is a new opportunity to learn something new. Training the mind, the body, and the spirit. Cultivating a strong mindset and an iron will.
+- Goal oriented. Neat and Organized. Perceptive, Passionate, Empathetic, Compassionate, and Professional. 
+
 #### 2023 Goals:
 
 - Finish The Odin Project curriculum 📚
