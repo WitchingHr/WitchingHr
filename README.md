@@ -1,18 +1,9 @@
 ### Hey! 👋
 I'm Matt, a self taught dev. I've spent the last 10 years of my life traveling around the world and now I'm looking to start a new career in tech.
-<hr>
 
-#### Values:
-- 1% Better Every Day
+#### 1% Better Every Day
 
-#### 2023 Goals:
-
-- Finish The Odin Project 📚
-
-- ...Get hired as a Junior! 🚀
-
-<hr>
-
+#### Proficient with:
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
