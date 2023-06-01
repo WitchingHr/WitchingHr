@@ -1,7 +1,15 @@
-### Hey! 👋
+# Hi
 I'm Matt, a self taught dev. I've spent the last 10 years of my life traveling around the world and now I'm looking to start a new career in tech.
 
-#### 1% Better Every Day
+#### Goals:
+- Continue Learning and Building a Strong Portfolio
+- Get Hired as a Developer
+
+#### My Ideals:
+- 1% Better Every Day
+- Practice, Practice, Practice
+- Cultivating a Learning Mindset. Learn by Doing!
+- Constantly Challenging Yourself by Stepping Outside of Your Comfort Zone
 
 #### Proficient with:
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
