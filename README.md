@@ -1,4 +1,4 @@
-# Hola amigo
+# Hola chicos
 I'm Matt, a self taught dev. I've spent the last 10 years of my life traveling around the world and now I'm looking to start a new career in tech.
 
 #### Goals:
